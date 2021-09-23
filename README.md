@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @someone
-- 👀 I’m interested in learning programming...
-- 🌱 I'm a noob in programming language. So, I look forward to be a pro in near future.
+hi
